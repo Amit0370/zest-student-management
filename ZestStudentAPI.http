@@ -1,0 +1,6 @@
+@ZestStudentAPI_HostAddress = http://localhost:5006
+
+GET {{ZestStudentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
